@@ -17,7 +17,7 @@ business-oriented insights and tools.
 ### Key Visualizations
 
 1.  **Correlation Heatmap**\
-    ![Correlation Heatmap]([Correlation_Heatmap.png])
+    ![Correlation Heatmap](Correlation_Heatmap.png)
 2.  **Customer Join Trend**\
     ![Customers Joined](Customers_joined.png)
 3.  **Tenure and Lifetime Distribution**\
